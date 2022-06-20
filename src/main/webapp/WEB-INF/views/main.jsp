@@ -15,6 +15,9 @@
 	<p>2.reverse commit - 특정 버전에서 실행한 내용만 되돌리고 최종버전은 유지하는 새로운 커밋을 생성</p>
 </body>
 <script>
-
+	var msg = "${msg}";
+	if(msg !=""){
+		alert(msg);
+	}
 </script>
 </html>
