@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	<h3>폐기 기능</h3>
+	<p>commit 하기 전 상태의 파일을 삭제하는 기능 이다.</p>
 </body>
 </html>
