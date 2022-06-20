@@ -16,9 +16,6 @@
 	<p>불 필요한 내용 추가</p>
 </body>
 <script>
-	var msg = "${msg}";
-	if(msg !=""){
-		alert(msg);
-	}
+
 </script>
 </html>
